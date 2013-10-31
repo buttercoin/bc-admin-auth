@@ -29,7 +29,8 @@
   "dependencies": {
     "mongoose": "~3.6.20",
     "passport": "0.1.17",
-    "passport-google": "~0.3.0"
+    "passport-google": "~0.3.0",
+    "node-uuid": "1.4.0"
   },
   "license": "MIT",
   "engines": {
