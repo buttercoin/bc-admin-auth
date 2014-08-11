@@ -1,6 +1,6 @@
 {
   "name": "bc-admin-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/buttercoin/bc-admin-auth",
   "author": {
     "name": "Kevin Adams",
@@ -27,9 +27,9 @@
     "packaging"
   ],
   "dependencies": {
-    "mongoose": "~3.6.20",
-    "passport": "0.1.17",
-    "passport-google": "~0.3.0",
+    "mongoose": "~3.8.14",
+    "passport": "0.2.0",
+    "passport-google-auth": "~0.1.5",
     "node-uuid": "1.4.0"
   },
   "license": "MIT",
@@ -40,9 +40,9 @@
   "readme": "bc-admin-auth\n===========\n\nThis is an Express Middleware module for use with Buttercoin Admin apps and Passport Google Auth modules",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/buttercoin/mimosa-frontend-config/issues"
+    "url": "https://github.com/buttercoin/bc-admin-auth/issues"
   },
-  "_id": "mimosa-frontend-config@0.0.1",
-  "_from": "mimosa-frontend-config@"
+  "_id": "bc-admin-auth@0.0.1",
+  "_from": "bc-admin-auth@"
 }
 
